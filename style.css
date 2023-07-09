@@ -9,6 +9,13 @@ body{
     padding-right: 20px;
 }
 
+.navbar ul{
+    width: 100%;
+    justify-content: space-around;
+    display: flex;
+    align-items: center;
+}
+
 header{
     display: block;
 }
