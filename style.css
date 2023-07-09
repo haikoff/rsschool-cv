@@ -9,6 +9,13 @@ body{
     padding-right: 20px;
 }
 
+.navbar ul{
+    width: 100%;
+    justify-content: space-around;
+    display: flex;
+    align-items: center;
+}
+
 header{
     display: block;
 }
@@ -72,12 +79,6 @@ text-align: right;
     letter-spacing: 5px;
 }
 
-.aboutme h3{
-    text-align: center;
-    margin-top: 30px;
-    font-size: 30px;
-}
-
 .aboutme h4{
     width: 800px;
     margin-top: 40px;
@@ -92,6 +93,12 @@ text-align: right;
     text-align: center;
     font-size: 30px;
     margin-top: 30px;
+}
+
+.aboutme h3{
+    text-align: center;
+    margin-top: 30px;
+    font-size: 30px;
 }
 
 .skills{
@@ -155,3 +162,4 @@ justify-items: center;
 footer h1{
     color: #D7D7D7;
 }
+
