@@ -163,3 +163,7 @@ footer h1{
     color: #D7D7D7;
 }
 
+ul li{
+    list-style-type: none;
+}
+
